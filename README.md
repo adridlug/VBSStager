@@ -142,6 +142,4 @@ Defenders can use this project to test detections for:
 
 ## Disclaimer
 
-## Disclaimer
-
 This project is provided for authorized research, education, and defensive testing only. Users are solely responsible for ensuring that their use complies with all applicable laws, regulations, and organizational policies. The author does not endorse or accept responsibility for any misuse, illegal activity, or damage resulting from the use of this project.
